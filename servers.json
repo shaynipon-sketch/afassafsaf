@@ -118,5 +118,65 @@
     "remark": "🇷🇺Россия (Обход #2 & YouTube)",
     "added": 1795105062,
     "source": "comment 424/1637"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@46.8.208.17:8443?type=tcp&security=reality&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sni=max.ru&sid=f3c0f343a191&fp=qq&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%234%20Hysteria%20TLS%29",
+    "remark": "🇫🇷Франция (Обход #4 Hysteria TLS)",
+    "added": 1795105087,
+    "source": "comment 420/1625"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@95.163.232.109:8443?type=tcp&security=reality&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&sni=max.ru&sid=51d04ca6fb10&fp=qq&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%233%20Vless%20Reality%29",
+    "remark": "🇫🇷Франция (Обход #3 Vless Reality)",
+    "added": 1795105087,
+    "source": "comment 419/1623"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@194.55.239.183:8443?type=tcp&security=tls&sni=mak.topupaxme.icu&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%232%20Vless%20Reality%29",
+    "remark": "🇫🇷Франция (Обход #2 Vless Reality)",
+    "added": 1795105088,
+    "source": "comment 418/1621"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@188.225.33.214:8443?type=tcp&security=reality&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sni=max.ru&sid=f3c0f343a191&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%20Vless%20Reality%29",
+    "remark": "🇫🇷Франция (Обход #1 Vless Reality)",
+    "added": 1795105088,
+    "source": "comment 417/1618"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@188.225.76.159:5443?type=tcp&security=tls&sni=bermux.locallynet.org&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%233%20VLESS%20TLS%29",
+    "remark": "🇩🇪 Германия (Обход #3 VLESS TLS)",
+    "added": 1795105089,
+    "source": "comment 410/1603"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@194.55.239.239:443?type=tcp&security=tls&sni=cdn-network.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%20VLESS%20TLS%29",
+    "remark": "🇬🇧Великобритания (Обход #1 VLESS TLS)",
+    "added": 1795105090,
+    "source": "comment 406/1595"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@turkey-api.locallynet.org:6443?type=tcp&security=tls&sni=turkey-api.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%20VLESS%20TLS%29",
+    "remark": "🇹🇷Турция (Обход #1 VLESS TLS)",
+    "added": 1795105090,
+    "source": "comment 405/1593"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@188.225.86.34:443?type=tcp&security=tls&sni=gamin-1.locallynet.org&fp=qq&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28Gaming%20%F0%9F%8E%AE%20%231%20%26%20VLESS%29",
+    "remark": "🇩🇪Германия (Gaming 🎮 #1 & VLESS)",
+    "added": 1795105091,
+    "source": "comment 404/1591"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@188.225.73.87:8443?type=tcp&security=reality&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sni=max.ru&sid=f3c0f343a191&fp=qq&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%20Vless%20Reality%29",
+    "remark": "🇳🇱Нидерланды (Обход #1 Vless Reality)",
+    "added": 1795105091,
+    "source": "comment 402/1588"
+  },
+  {
+    "uri": "vless://ef7ef81a-d230-46c8-9b2c-fdf27e0103a9@185.22.234.32:6443?type=tcp&security=reality&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&sni=max.ru&sid=51d04ca6fb10&fp=qq&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%20Vless%20Reality%29",
+    "remark": "🇩🇪 Германия (Обход #1 Vless Reality)",
+    "added": 1795105093,
+    "source": "comment 397/1577"
   }
 ]
